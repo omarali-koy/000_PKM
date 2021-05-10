@@ -42,7 +42,7 @@ title: 3 wishes - why, what, how
 #### to-do app with salah option
 ### **Build a successful agency**
 #### Build a case study by growing 2 personal communities
-#### My definition of successful agency
+#### My definition of a successful agency
 ##### Delivering quality results on time
 ###### Consistent growth on instagram
 ###### Good quality content on time
