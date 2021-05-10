@@ -2,15 +2,7 @@
 title: 3 wishes - why, what, how
 ---
 
-##
-### Build innovative apps
-#### roam clone note app
-#### to-do app with salah option
-### Build a successful brand
-#### grow my own brand online
-#### Streamline time-consuming steps
-###
-## Feel
+## Why - Feel
 ### Build innovative apps
 #### I enjoy the feeling of progress when building tools.
 ##### Entering the flow state while Rapid prototyping is amazing
@@ -30,3 +22,11 @@ title: 3 wishes - why, what, how
 ##### Learning more about marketing, nature, etc
 ##### writing them down in my zettl system
 ##### Converting those notes into content
+## what - goals
+### Build innovative apps
+#### roam clone note app
+#### to-do app with salah option
+### Build a successful brand
+#### Build a case study by growing 2 personal communities online
+#### Streamline time-consuming steps
+## How - action plan
