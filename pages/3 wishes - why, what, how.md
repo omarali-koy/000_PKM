@@ -32,6 +32,7 @@ title: 3 wishes - why, what, how
 #### ===== ***Other*** =====
 #### Scared of being unable to create high quality content consistently
 ####
+#### Feeling insecure in what delivering my service to my clients
 ## what - goals
 ### **Build innovative apps**
 #### roam clone note app
