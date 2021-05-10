@@ -30,3 +30,5 @@ title: 3 wishes - why, what, how
 #### Build a case study by growing 2 personal communities
 #### Streamline time-consuming steps
 ## How - action plan
+### **Build innovative apps**
+###
