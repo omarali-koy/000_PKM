@@ -11,7 +11,9 @@ title: 3 wishes - why, what, how
 #### Streamline time-consuming steps
 ## Feel
 ### Build innovative apps
-#### I enjoy the feeling of building tools.
+#### I enjoy the feeling of progress when building tools.
 ##### Entering the flow state while Rapid prototyping is amazing
 ##### Feeling like you are accomplishing a lot
-####
+#### I feel clear headed
+##### Building an app is straightforward
+#####
