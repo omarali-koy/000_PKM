@@ -80,4 +80,4 @@ title: 3 wishes - why, what, how
 #### I have little experience in making quality content fast
 #### Didn't dedicate time to build a system
 #### Didn't act on any system I had
-####
+#### Didn't block time for my tasks
