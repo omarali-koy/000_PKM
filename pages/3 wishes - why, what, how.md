@@ -27,6 +27,6 @@ title: 3 wishes - why, what, how
 #### roam clone note app
 #### to-do app with salah option
 ### Build a successful brand
-#### Build a case study by growing 2 personal communities online
+#### Build a case study by growing 2 personal communities
 #### Streamline time-consuming steps
 ## How - action plan
