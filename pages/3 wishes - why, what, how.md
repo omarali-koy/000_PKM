@@ -3,14 +3,14 @@ title: 3 wishes - why, what, how
 ---
 
 ## Why - Feel
-### Build innovative apps
+### **Build innovative apps**
 #### I enjoy the feeling of progress when building tools.
 ##### Entering the flow state while Rapid prototyping is amazing
 ##### Feeling like you are accomplishing a lot
 #### I feel clear headed
 ##### Building an app is straightforward
 ##### there is a goal and you know how to reach it
-### Growing a successful brand
+### **Growing a successful brand**
 #### I feel free and independent
 ##### Afford a to live in a growth inspiring environment
 ###### laptop lifestyle
@@ -23,10 +23,10 @@ title: 3 wishes - why, what, how
 ##### writing them down in my zettl system
 ##### Converting those notes into content
 ## what - goals
-### Build innovative apps
+### **Build innovative apps**
 #### roam clone note app
 #### to-do app with salah option
-### Build a successful brand
+### **Build a successful brand**
 #### Build a case study by growing 2 personal communities
 #### Streamline time-consuming steps
 ## How - action plan
