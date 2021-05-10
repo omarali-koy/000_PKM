@@ -59,6 +59,10 @@ title: 3 wishes - why, what, how
 ### **Build a successful brand**
 #### Write a brand book for my 2 communities
 ##### What do I offer - narrow it down
-#####
+#### Follow Dain's course
+#### Implement into my brands
+##### BIO
+##### Content research
+##### Design
 ## Why I haven't achieved it yet
 ###
