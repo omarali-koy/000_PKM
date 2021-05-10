@@ -71,5 +71,6 @@ title: 3 wishes - why, what, how
 #### I gotta learn how to code in flutter
 #### I gotta learn how to make clean code architecture
 #### I need to learn how the text editor works
+#### Didn't dedicate my time daily
 ### **Build a successful brand**
 ####
