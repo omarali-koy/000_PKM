@@ -50,7 +50,8 @@ title: 3 wishes - why, what, how
 ###### Closing 3 clients on Upwork biweekly
 ## How - action plan
 ### **Build zettl and salah to-do apps**
-####
+#### Follow along *flutter bootcamp* course
+#### implement the lessons in my personal projects
 ### **Build a successful brand**
 ####
 ## Why I haven't achieved it yet
