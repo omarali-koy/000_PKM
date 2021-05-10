@@ -16,7 +16,7 @@ title: 3 wishes - why, what, how
 :PROPERTIES:
 :todo: 1620620401959
 :END:
-### **Growing a successful brand**
+### **Growing a successful agency**
 #### ***===== Good =====***
 #### I feel free and independent
 ##### Afford a to live in a growth inspiring environment
@@ -37,7 +37,7 @@ title: 3 wishes - why, what, how
 ###### Shine Health - low quality
 ###### Masiv Marketing - delivery time
 ## what - goals
-### **Build innovative apps**
+### **Build zettl and salah to-do apps**
 #### roam clone note app
 #### to-do app with salah option
 ### **Build a successful brand**
