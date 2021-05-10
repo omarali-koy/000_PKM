@@ -66,6 +66,7 @@ title: 3 wishes - why, what, how
 ##### Design
 ## Why I haven't achieved it yet
 ### **Build zettl and salah to-do apps**
+#### I thought it was over-complicated
 ####
 ### **Build a successful brand**
 ####
