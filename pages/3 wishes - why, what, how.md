@@ -58,7 +58,7 @@ title: 3 wishes - why, what, how
 ##### Quizzler - re-build zettl with cleaner code
 ### **Build a successful brand**
 #### Write a brand book for my 2 communities
-##### Design - gather design inspirations
+##### What do I offer - narrow it down
 #####
 ## Why I haven't achieved it yet
 ###
