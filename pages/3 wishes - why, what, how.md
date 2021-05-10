@@ -69,6 +69,7 @@ title: 3 wishes - why, what, how
 #### I thought it was over-complicated
 #### I procrastinated
 #### I gotta learn how to code in flutter
+#### I gotta learn how to make clean code architecture
 ####
 ### **Build a successful brand**
 ####
