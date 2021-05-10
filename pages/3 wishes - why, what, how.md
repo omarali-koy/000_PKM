@@ -51,10 +51,10 @@ title: 3 wishes - why, what, how
 ## How - action plan
 ### **Build zettl and salah to-do apps**
 #### Follow along *flutter bootcamp* course
-##### Dicee - apps with state
+##### Dice - apps with state
 ##### Quizzler - clean code
 #### implement the lessons in my personal projects
-#####
+##### Dice -
 ### **Build a successful brand**
 ####
 ## Why I haven't achieved it yet
