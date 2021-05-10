@@ -9,6 +9,7 @@ title: 3 wishes - why, what, how
 ### Build a successful brand
 #### grow my own brand online
 #### Streamline time-consuming steps
+###
 ## Feel
 ### Build innovative apps
 #### I enjoy the feeling of progress when building tools.
@@ -25,7 +26,7 @@ title: 3 wishes - why, what, how
 ###### Visiting spa, etc
 ###### Sitting in coworking/starbacks
 ##### Live with like minded English speaking community
-#### Enjoyment from learning new knowledge
+#### I enjoy learning new knowledge
 ##### Learning more about marketing, nature, etc
 ##### writing them down in my zettl system
 ##### Converting those notes into content
