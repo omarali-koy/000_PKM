@@ -68,6 +68,7 @@ title: 3 wishes - why, what, how
 ### **Build zettl and salah to-do apps**
 #### I thought it was over-complicated
 #### I procrastinated
+#### I gotta learn how to code in flutter
 ####
 ### **Build a successful brand**
 ####
