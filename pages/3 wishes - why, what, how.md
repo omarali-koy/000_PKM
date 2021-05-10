@@ -40,7 +40,7 @@ title: 3 wishes - why, what, how
 ### **Build zettl and salah to-do apps**
 #### roam clone note app
 #### to-do app with salah option
-### **Build a successful brand**
+### **Build a successful agency**
 #### Build a case study by growing 2 personal communities
 #### Streamline time-consuming steps
 ## How - action plan
