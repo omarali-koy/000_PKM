@@ -33,7 +33,9 @@ title: 3 wishes - why, what, how
 #### Scared of being unable to create high quality content consistently
 #### Unsure of what service I offer to my clients
 #### Feeling insecure of delivering growth service to my clients
-#####
+##### As for content design, it's delivering on time with quality.
+###### Shine Health - low quality
+###### Masiv Marketing - delivery time
 ## what - goals
 ### **Build innovative apps**
 #### roam clone note app
