@@ -21,7 +21,7 @@ title: 3 wishes - why, what, how
 #### I feel free and independent
 ##### Afford a to live in a growth inspiring environment
 ##### Live with like minded English speaking community
-##### afford to
+##### afford to visit starbucks
 #### Enjoyment from learning new knowledge
 ##### Learning more about marketing, nature, etc
 ##### writing them down in my zettl system
