@@ -54,8 +54,8 @@ title: 3 wishes - why, what, how
 ##### Dice - apps with state
 ##### Quizzler - clean code
 #### implement the lessons in my personal projects
-##### Dice - salah wallpaper switcher
-##### Quizzler - re-build with cleaner code
+##### Dice - Salah wallpaper switcher
+##### Quizzler - re-build zettl with cleaner code
 ### **Build a successful brand**
 ####
 ## Why I haven't achieved it yet
