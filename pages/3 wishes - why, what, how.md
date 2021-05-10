@@ -30,7 +30,8 @@ title: 3 wishes - why, what, how
 ##### writing them down in my zettl system
 ##### Converting those notes into content
 #### ===== ***Other*** =====
-#### I'm scared to
+#### Scared of being unable to create high quality content consistently
+####
 ## what - goals
 ### **Build innovative apps**
 #### roam clone note app
