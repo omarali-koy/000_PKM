@@ -45,8 +45,9 @@ title: 3 wishes - why, what, how
 #### My definition of successful agency
 #####
 ## How - action plan
-### **Build innovative apps**
+### **Build zettl and salah to-do apps**
 ####
 ### **Build a successful brand**
+####
 ## Why I haven't achieved it yet
 ###
