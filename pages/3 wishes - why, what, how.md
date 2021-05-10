@@ -17,7 +17,7 @@ title: 3 wishes - why, what, how
 :todo: 1620620401959
 :END:
 ### **Growing a successful brand**
-#### ===== ***Good*** =====
+#### ***===== Good =====***
 #### I feel free and independent
 ##### Afford a to live in a growth inspiring environment
 ###### laptop lifestyle
@@ -29,7 +29,7 @@ title: 3 wishes - why, what, how
 ##### Learning more about marketing, nature, etc
 ##### writing them down in my zettl system
 ##### Converting those notes into content
-#### **===== ***Other*** =====**
+#### **===== Other =====**
 #### Scared of being unable to create high quality content consistently
 #### Unsure of what service I offer to my clients
 #### Feeling insecure of delivering growth service to my clients
