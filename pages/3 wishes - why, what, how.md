@@ -28,6 +28,7 @@ title: 3 wishes - why, what, how
 ##### Learning more about marketing, nature, etc
 ##### writing them down in my zettl system
 ##### Converting those notes into content
+#####
 ## what - goals
 ### **Build innovative apps**
 #### roam clone note app
