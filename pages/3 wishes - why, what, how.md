@@ -18,7 +18,7 @@ title: 3 wishes - why, what, how
 ##### Building an app is straightforward
 ##### there is a goal and you know how to reach it
 ### Growing a successful brand
-#### I feel freedom and independent
+#### I feel free and independent
 ##### Afford a growth inspiring environment
-#####
-#### It's an opportunity to earn income
+##### Live with like minded English speaking community
+####
