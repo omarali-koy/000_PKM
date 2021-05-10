@@ -42,7 +42,8 @@ title: 3 wishes - why, what, how
 #### to-do app with salah option
 ### **Build a successful agency**
 #### Build a case study by growing 2 personal communities
-#### Streamline time-consuming steps
+#### My definition of successful agency
+#####
 ## How - action plan
 ### **Build innovative apps**
 ####
