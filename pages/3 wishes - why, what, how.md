@@ -76,7 +76,8 @@ title: 3 wishes - why, what, how
 ### **Build a successful agency**
 #### I don't have experience growing a brand
 #### Didn't manage my time for content delivery
-####
+#### I have no consistent content pipeline I'm confident in
+#### I have little experience in making quality content fast
 #### Didn't dedicate time to build a system
 #### Didn't act on any system I had
 ####
