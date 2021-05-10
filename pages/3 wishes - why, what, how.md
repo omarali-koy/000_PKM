@@ -12,7 +12,10 @@ title: 3 wishes - why, what, how
 ##### Building an app is straightforward
 ##### there is a goal and you know how to reach it
 #### ===== *Other* =====
-####
+#### TODO
+:PROPERTIES:
+:todo: 1620620401959
+:END:
 ### **Growing a successful brand**
 #### I feel free and independent
 ##### Afford a to live in a growth inspiring environment
