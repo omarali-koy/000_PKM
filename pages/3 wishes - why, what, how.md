@@ -44,7 +44,7 @@ title: 3 wishes - why, what, how
 #### Build a case study by growing 2 personal communities
 #### My definition of successful agency
 ##### Delivering quality results on time
-###### consistent growth on instagram
+###### Consistent growth on instagram
 ######
 ##### Consistent stream of hot leads
 ## How - action plan
