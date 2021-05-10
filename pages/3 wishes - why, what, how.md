@@ -77,3 +77,6 @@ title: 3 wishes - why, what, how
 #### I don't have experience growing a brand
 #### Didn't manage my time for content delivery
 ####
+#### Didn't dedicate time to build a system
+#### Didn't act on any system I had
+####
