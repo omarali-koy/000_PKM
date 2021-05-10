@@ -43,6 +43,7 @@ title: 3 wishes - why, what, how
 ### **Build a successful agency**
 #### Build a case study by growing 2 personal communities
 #### My definition of successful agency
+##### delivering quality results on time
 #####
 ## How - action plan
 ### **Build zettl and salah to-do apps**
