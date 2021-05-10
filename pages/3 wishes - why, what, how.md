@@ -31,7 +31,7 @@ title: 3 wishes - why, what, how
 ##### Converting those notes into content
 #### ===== ***Other*** =====
 #### Scared of being unable to create high quality content consistently
-####
+#### Unsure of what service I offer to my clients
 #### Feeling insecure in what delivering my service to my clients
 ## what - goals
 ### **Build innovative apps**
