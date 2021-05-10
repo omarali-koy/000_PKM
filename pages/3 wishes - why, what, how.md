@@ -19,5 +19,6 @@ title: 3 wishes - why, what, how
 ##### there is a goal and you know how to reach it
 ### Growing a successful brand
 #### I feel freedom and independent
-##### afford a growth inpiring environment
+##### Afford a growth inspiring environment
+#####
 #### It's an opportunity to earn income
