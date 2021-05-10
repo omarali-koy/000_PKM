@@ -57,6 +57,7 @@ title: 3 wishes - why, what, how
 ##### Dice - Salah wallpaper switcher
 ##### Quizzler - re-build zettl with cleaner code
 ### **Build a successful brand**
-####
+#### Write a brand book for my 2 communities
+##### Gather design inpirations -
 ## Why I haven't achieved it yet
 ###
