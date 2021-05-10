@@ -56,7 +56,7 @@ title: 3 wishes - why, what, how
 #### implement the lessons in my personal projects
 ##### Dice - Salah wallpaper switcher
 ##### Quizzler - re-build zettl with cleaner code
-### **Build a successful brand**
+### **Build a successful agency**
 #### Write a brand book for my 2 communities
 ##### What do I offer - narrow it down
 #### Follow Dain's course
@@ -73,7 +73,7 @@ title: 3 wishes - why, what, how
 #### I need to learn how the text editor works
 #### Didn't dedicate my time daily
 #### No clue how the backend works... especially sync
-### **Build a successful brand**
+### **Build a successful agency**
 #### I don't have experience growing a brand
 #### Didn't manage my time for content delivery
 ####
