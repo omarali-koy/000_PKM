@@ -4,20 +4,20 @@ title: 3 wishes - why, what, how
 
 ## Why - Feel
 ### **Build innovative apps**
-#### ===== *Good* =====
+#### ===== ***Good*** =====
 #### I enjoy the feeling of progress when building tools.
 ##### Entering the flow state while Rapid prototyping is amazing
 ##### Feeling like you are accomplishing a lot
 #### I feel clear headed
 ##### Building an app is straightforward
 ##### there is a goal and you know how to reach it
-#### ===== *Other* =====
+#### ===== ***Other*** =====
 #### TODO
 :PROPERTIES:
 :todo: 1620620401959
 :END:
 ### **Growing a successful brand**
-#### ===== *Good* =====
+#### ===== ***Good*** =====
 #### I feel free and independent
 ##### Afford a to live in a growth inspiring environment
 ###### laptop lifestyle
@@ -29,7 +29,7 @@ title: 3 wishes - why, what, how
 ##### Learning more about marketing, nature, etc
 ##### writing them down in my zettl system
 ##### Converting those notes into content
-#### ===== *Other* =====
+#### ===== ***Other*** =====
 ####
 ## what - goals
 ### **Build innovative apps**
