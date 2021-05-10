@@ -21,4 +21,7 @@ title: 3 wishes - why, what, how
 #### I feel free and independent
 ##### Afford a growth inspiring environment
 ##### Live with like minded English speaking community
-####
+#### Enjoyment from learning new knowledge
+##### Learning more about marketing, nature, etc
+##### writing them down in my zettl system
+##### converting those notes into
