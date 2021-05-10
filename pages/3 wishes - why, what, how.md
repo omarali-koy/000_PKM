@@ -16,4 +16,5 @@ title: 3 wishes - why, what, how
 ##### Feeling like you are accomplishing a lot
 #### I feel clear headed
 ##### Building an app is straightforward
-#####
+##### there is a goal and you know how to reach it
+###
