@@ -44,7 +44,8 @@ title: 3 wishes - why, what, how
 #### Build a case study by growing 2 personal communities
 #### My definition of successful agency
 ##### Delivering quality results on time
-##### Consistent stream of client leads
+######
+##### Consistent stream of hot leads
 ## How - action plan
 ### **Build zettl and salah to-do apps**
 ####
