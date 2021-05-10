@@ -20,8 +20,9 @@ title: 3 wishes - why, what, how
 ### Growing a successful brand
 #### I feel free and independent
 ##### Afford a to live in a growth inspiring environment
+###### laptop lifestyle
+###### Sitting in coworking/starbacks
 ##### Live with like minded English speaking community
-##### afford to visit starbucks
 #### Enjoyment from learning new knowledge
 ##### Learning more about marketing, nature, etc
 ##### writing them down in my zettl system
