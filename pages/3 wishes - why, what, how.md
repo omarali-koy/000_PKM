@@ -24,4 +24,4 @@ title: 3 wishes - why, what, how
 #### Enjoyment from learning new knowledge
 ##### Learning more about marketing, nature, etc
 ##### writing them down in my zettl system
-##### converting those notes into
+##### Converting those notes into
