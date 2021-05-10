@@ -2,7 +2,7 @@
 title: 3 wishes - why, what, how
 ---
 
-## Wishes
+##
 ### Build innovative apps
 #### roam clone note app
 #### to-do app with salah option
