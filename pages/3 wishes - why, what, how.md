@@ -3,7 +3,7 @@ title: 3 wishes - why, what, how
 ---
 
 ## Why - Feel
-### **Build innovative apps**
+### **Build zettl and salah to-do apps**
 #### ===== ***Good*** =====
 #### I enjoy the feeling of progress when building tools.
 ##### Entering the flow state while Rapid prototyping is amazing
