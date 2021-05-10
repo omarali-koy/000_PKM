@@ -55,6 +55,7 @@ title: 3 wishes - why, what, how
 ##### Quizzler - clean code
 #### implement the lessons in my personal projects
 ##### Dice -
+##### Quizzler - re-build with cleaner code
 ### **Build a successful brand**
 ####
 ## Why I haven't achieved it yet
