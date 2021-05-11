@@ -22,4 +22,6 @@ title: dain's course - instagram academy
 #### I have a thirst for knowledge
 #### I am lazy and thus love systems and autonamy
 ### How do people feel about you?
+#### logical to a t
+#### Honest and blunt
 ###
