@@ -11,4 +11,4 @@ title: dain's course - instagram academy
 ### Amplify the problem
 ## **7: Niche Modalities Part 2**
 ### Who are you?
-####
+#### I am a visual storyteller and I help health/self-care brands spread their message and
