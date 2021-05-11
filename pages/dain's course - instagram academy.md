@@ -10,4 +10,5 @@ title: dain's course - instagram academy
 #### Grow your brand
 ### Amplify the problem
 ## **7: Niche Modalities Part 2**
-###
+### Who are you?
+####
