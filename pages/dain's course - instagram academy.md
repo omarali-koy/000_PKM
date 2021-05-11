@@ -34,4 +34,5 @@ title: dain's course - instagram academy
 ##### Visual storytelling
 #### My angle is nature inspired designs
 ### What makes you special
-####
+#### I practice what I preach
+#### My focus is on
