@@ -3,6 +3,8 @@ title: 3 wishes - why, what, how
 ---
 
 ## Why - Feel
+### **Changing myself for the better**
+####
 ### **Build zettl and salah to-do apps**
 #### ===== ***Good*** =====
 #### I enjoy the feeling of progress when building tools.
