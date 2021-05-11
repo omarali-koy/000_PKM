@@ -4,7 +4,8 @@ title: 3 wishes - why, what, how
 
 ## Why - Feel
 ### **Changing myself for the better**
-####
+#### I feel fedup of not managing to accomplish my goals
+#### I feel tired of not following through with my ambitions
 ### **Build zettl and salah to-do apps**
 #### ===== ***Good*** =====
 #### I enjoy the feeling of progress when building tools.
