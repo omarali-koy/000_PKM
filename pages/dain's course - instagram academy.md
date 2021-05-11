@@ -29,4 +29,5 @@ title: dain's course - instagram academy
 #### With systems or products
 ### Why are you unique vs competitors?
 #### I double down on simplicity and clean startegies
-#### I focus on
+#### I focus on systems and straightforward action
+####
