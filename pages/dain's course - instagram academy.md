@@ -47,4 +47,7 @@ title: dain's course - instagram academy
 #### Posting without consistent momentum -> Consistent timing
 #### The first 9 posts don't complement each other
 #### There isn't an overarching meaning behind all the posts
-###
+### What to do
+#### Post on a consistent time-frame. So, people trust you.
+##### Christos Nikas is a great example
+#####
