@@ -19,6 +19,6 @@ title: dain's course - instagram academy
 ### How do people describe you?
 ### How would you describe yourself?
 #### I love building new innovative things
-#### I have a thirst for knwoledge
+#### I have a thirst for knowledge
 #### I am lazy and thus love systems and autonamy
 ###
