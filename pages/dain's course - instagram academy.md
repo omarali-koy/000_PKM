@@ -32,6 +32,6 @@ title: dain's course - instagram academy
 #### I focus on systems and straightforward actions
 #### I teach lessons though stories or historic events
 ##### Visual storytelling
-#### My angle is nature inspired designs mixed with
+#### My angle is nature inspired designs
 ### What makes you special
 ####
