@@ -33,4 +33,4 @@ title: dain's course - instagram academy
 #### I teach lessons though stories or historic events
 ##### Visual storytelling
 #### My angle is nature inspired designs mixed
-####
+#### A calm place with
