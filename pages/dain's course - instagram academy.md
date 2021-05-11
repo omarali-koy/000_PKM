@@ -41,4 +41,4 @@ title: dain's course - instagram academy
 #### not eveything
 #### implement: Spread your message by educating others
 ### My lure
-####
+#### creating educational
