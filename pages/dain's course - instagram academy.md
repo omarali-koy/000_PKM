@@ -7,3 +7,6 @@ title: dain's course - instagram academy
 ### Helping health/self-care brands grow with simple content strategy
 ### What problem are you solving?
 #### Spreading your brand message
+#### Grow your brand
+### Amplify the problem
+####
