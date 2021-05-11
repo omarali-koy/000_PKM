@@ -51,4 +51,6 @@ title: dain's course - instagram academy
 #### Post on a consistent time-frame. So, people trust you.
 ##### Christos Nikas is a great example
 #### Be laser focused on who you are and what value you give
+#### Post content that is aligned with your message
+#### Have a consistent theme for first 9 slides
 ####
