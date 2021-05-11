@@ -39,4 +39,6 @@ title: dain's course - instagram academy
 ## **8: Niche Modalities Part 3**
 ### Promote what you do best
 #### not eveything
-#### implement:
+#### implement: Spread your message by educating others
+### My lure
+####
