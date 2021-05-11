@@ -18,4 +18,4 @@ title: dain's course - instagram academy
 #### helping spread new products to those who need it
 ### How do people describe you?
 ### How would you describe yourself?
-####
+#### I love systems and building new innovative
