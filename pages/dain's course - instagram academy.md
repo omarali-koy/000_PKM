@@ -31,4 +31,5 @@ title: dain's course - instagram academy
 #### I double down on simplicity and clean strategies
 #### I focus on systems and straightforward actions
 #### I teach lessons though stories or historic events
+##### Visual storytelling
 ####
