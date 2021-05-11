@@ -35,4 +35,4 @@ title: dain's course - instagram academy
 #### My angle is nature inspired designs
 ### What makes you special
 #### I practice what I preach
-#### My focus is on
+#### My implement self-care and productivity lessons
