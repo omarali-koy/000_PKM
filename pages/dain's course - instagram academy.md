@@ -30,4 +30,5 @@ title: dain's course - instagram academy
 ### Why are you unique vs competitors?
 #### I double down on simplicity and clean strategies
 #### I focus on systems and straightforward actions
+#### I teach lessons with stories or historic events
 ####
