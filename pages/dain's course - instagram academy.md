@@ -24,4 +24,7 @@ title: dain's course - instagram academy
 ### How do people feel about you?
 #### logical to a t
 #### Honest and blunt
-###
+### What impact do you have
+#### Transforming people's health and lives for the better
+#### With systems or products
+####
