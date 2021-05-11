@@ -53,4 +53,4 @@ title: dain's course - instagram academy
 #### Be laser focused on who you are and what value you give
 #### Post content that is aligned with your message
 #### Have a consistent theme for first 9 slides
-####
+#### Have a over-arching message that details exactly what you do and HOW you do it
