@@ -13,6 +13,8 @@ title: dain's course - instagram academy
 ### Who are you?
 #### I am a visual storyteller and I help health/self-care brands spread their message and grow on Instagram
 ### Why do you exist?
+#### I write captivating stories to teach a lesson and spread a message
 #### To help brands transform lives with their message
 #### helping spread new products to those who need it
-###
+### How do people describe you?
+####
