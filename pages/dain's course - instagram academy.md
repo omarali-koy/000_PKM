@@ -44,7 +44,7 @@ title: dain's course - instagram academy
 #### creating fun educational content
 ### Mistakes to avoid
 #### Content that isn't relevant to your page purepose
-#### Posting without consistent momentum
+#### Posting without consistent momentum -> Consistent timing
 #### The first 9 posts don't complement each other
 #### There isn't an overarching meaning behind all the posts
 ###
