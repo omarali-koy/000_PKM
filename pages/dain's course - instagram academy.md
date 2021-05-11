@@ -28,6 +28,6 @@ title: dain's course - instagram academy
 #### Transforming people's health and lives for the better
 #### With systems or products
 ### Why are you unique vs competitors?
-#### I double down on simplicity and clean startegies
+#### I double down on simplicity and clean strategies
 #### I focus on systems and straightforward action
 ####
