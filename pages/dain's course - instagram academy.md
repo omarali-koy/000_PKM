@@ -42,4 +42,9 @@ title: dain's course - instagram academy
 #### implement: Spread your message by educating others
 ### My lure
 #### creating fun educational content
-####
+### Mistakes to avoid
+#### Content that isn't relevant to your page purepose
+#### Posting without consistent momentum
+#### The first 9 posts don't complement each other
+#### There isn't an overarching meaning behind all the posts
+###
