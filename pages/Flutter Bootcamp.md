@@ -1,5 +1,5 @@
 ---
-title: Flutter Bootcamp - Salah to-do app
+title: Flutter Bootcamp
 ---
 
 ## **Metadata** #@project
