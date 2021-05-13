@@ -6,4 +6,5 @@ title: Flutter Bootcamp
 ### area:
 ### linked notes:
 ## Action Plan
-###
+### Zettl Proto - bullet writing
+### Zettl Proto - backlink
