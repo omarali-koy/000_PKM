@@ -1,6 +1,6 @@
 ---
 title: capture
-filters: {"insta content" true}
+filters: {"app idea" true}
 ---
 
 ##
